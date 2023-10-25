@@ -2,7 +2,7 @@
 - 👀 I’m interested in Command&Conquer
 - 🌱 I’m currently learning C/C++
 - 💞️ I’m looking to collaborate on C/C++
-- 📫 How to reach me cmxxdzzj@qq.com
+- 📫 How to reach me cmxxdzzj@foxmail.com
 
 <!---
 CmxxdZZJ/CmxxdZZJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

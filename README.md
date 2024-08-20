@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CmxxdZZJ
+- 👋 Hi, I’m @Cmixed
 - 👀 I’m interested in Command&Conquer
 - 🌱 I’m currently learning C/C++
 - 💞️ I’m looking to collaborate on C/C++

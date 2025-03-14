@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cmixed
 - 👀 I’m interested in Command&Conquer
-- 🌱 I’m currently learning C/C++
-- 💞️ I’m looking to collaborate on C/C++
+- 🌱 I’m currently learning Modern C++ Python Assembly
+- 💞️ I’m looking to collaborate on C++23 Python
 - 📫 How to reach me cmxxdzzj@foxmail.com
 
 <!---
